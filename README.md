@@ -1,1 +1,1 @@
-# JavaScript-Cheatsheets
+# Cheatsheets
